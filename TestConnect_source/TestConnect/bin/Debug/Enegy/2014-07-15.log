@@ -1,0 +1,20 @@
+15.07.2014 19:49:49 Version: 1.0.2.13
+15.07.2014 19:49:51 Click: Create
+15.07.2014 19:49:51 ConfigureClient logLevel=5;maxWorkerThreads=3
+15.07.2014 19:50:11 Click: Connect: 47HNXK
+15.07.2014 19:50:15 Get: Symbols
+15.07.2014 19:50:15 Get: Prortfolios
+15.07.2014 19:50:15 Portfolio 1/1 RTS_FUT:BP9567-RF-01:StPortfolioStatus_AutoRestricted 
+15.07.2014 19:50:15 Listen: Ticks, SBER
+15.07.2014 19:50:15 Listen: BidAsks, SBER
+15.07.2014 19:50:15 Listen: Quotes, SBER
+15.07.2014 19:50:15 GetHistory Ticks SBER From 15.07.2014 18:49:51
+15.07.2014 19:50:46 Click: Disconnect
+15.07.2014 19:50:47 Disconnected: Disconnected by user
+15.07.2014 19:50:48 Click: Connect: 47HNXK
+15.07.2014 19:50:51 Get: Symbols
+15.07.2014 19:50:51 Get: Prortfolios
+15.07.2014 19:50:51 Portfolio 1/1 RTS_FUT:BP9567-RF-01:StPortfolioStatus_AutoRestricted 
+15.07.2014 19:50:51 Listen: Ticks, RTS
+15.07.2014 6:49:00 GetBars 500, LastTick: 
+15.07.2014 6:49:00 Ошибка в GetBars Symbol not found RI

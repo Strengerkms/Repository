@@ -1,0 +1,12 @@
+e:\C++_Projects\TestConnect_source\TestConnect\bin\Debug\TestConnect.exe.config
+e:\C++_Projects\TestConnect_source\TestConnect\obj\x86\Debug\Interop.SmartCOM3Lib.dll
+e:\C++_Projects\TestConnect_source\TestConnect\obj\x86\Debug\TestConnect.csproj.ResolveComReference.cache
+e:\C++_Projects\TestConnect_source\TestConnect\bin\Debug\TestConnect.exe
+e:\C++_Projects\TestConnect_source\TestConnect\bin\Debug\TestConnect.pdb
+e:\C++_Projects\TestConnect_source\TestConnect\bin\Debug\Interop.SmartCOM3Lib.dll
+e:\C++_Projects\TestConnect_source\TestConnect\obj\x86\Debug\TestConnect.csprojResolveAssemblyReference.cache
+e:\C++_Projects\TestConnect_source\TestConnect\obj\x86\Debug\TestConnect.TestForm.resources
+e:\C++_Projects\TestConnect_source\TestConnect\obj\x86\Debug\TestConnect.Properties.Resources.resources
+e:\C++_Projects\TestConnect_source\TestConnect\obj\x86\Debug\TestConnect.csproj.GenerateResource.Cache
+e:\C++_Projects\TestConnect_source\TestConnect\obj\x86\Debug\TestConnect.exe
+e:\C++_Projects\TestConnect_source\TestConnect\obj\x86\Debug\TestConnect.pdb

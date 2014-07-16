@@ -1,0 +1,15 @@
+12.07.2014 18:34:53 Version: 1.0.2.13
+12.07.2014 18:34:55 Click: Create
+12.07.2014 18:34:55 ConfigureClient logLevel=5;maxWorkerThreads=3
+12.07.2014 18:34:57 Click: Connect: 
+12.07.2014 18:34:59 Disconnected: Bad user name or password
+12.07.2014 18:35:15 Click: Connect: ST51087
+12.07.2014 18:35:16 Disconnected: Bad user name or password
+12.07.2014 18:35:28 Click: Connect: 47HNXK
+12.07.2014 18:35:49 Get: Symbols
+12.07.2014 18:35:49 Get: Prortfolios
+12.07.2014 18:35:49 Portfolio 1/1 RTS_FUT:BP9567-RF-01:StPortfolioStatus_AutoRestricted 
+12.07.2014 18:35:49 Listen: Ticks, SBER
+12.07.2014 18:35:49 Listen: BidAsks, SBER
+12.07.2014 18:35:49 Listen: Quotes, SBER
+12.07.2014 18:35:49 GetHistory Ticks SBER From 11.07.2014 18:49:47
